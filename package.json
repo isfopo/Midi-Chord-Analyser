@@ -1,0 +1,15 @@
+{
+  "name": "midi-chord-analyser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "detect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Poole",
+  "license": "ISC",
+  "dependencies": {
+    "tonal": "^2.2.2",
+    "tonal-detect": "^2.2.2"
+  }
+}
