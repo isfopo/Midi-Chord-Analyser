@@ -9,6 +9,7 @@
   "author": "Isaac Poole",
   "license": "ISC",
   "dependencies": {
+    "sharp11": "^2.0.2",
     "tonal": "^2.2.2",
     "tonal-detect": "^2.2.2"
   }
